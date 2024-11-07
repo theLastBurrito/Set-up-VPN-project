@@ -71,4 +71,4 @@ Copy the client configuration to the client machine, if not on the same machine,
 
 Verify the client connection by pinging the VPN server
 
-<img src="https://github.com/user-attachments/assets/cf9e2bf3-7141-481b-8105-c268d1bf8fb9" alt="Description" width="500">
+<img src="https://github.com/user-attachments/assets/a4b8df06-e5f4-4fac-b174-00b24aaea798" alt="Description" width="500">
