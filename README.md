@@ -53,7 +53,7 @@ Create the client configuration file
 
 Add the following configuration in client.conf
 
-<img src="https://github.com/user-attachments/assets/e2630b9e-7eed-45d9-adc2-52038deb5f44" alt="Description" width="500">
+<img src="https://github.com/user-attachments/assets/d4046dbe-2bb8-41c7-993a-9580e4130e96" alt="Description" width="500">
 
 # Start WireGuard Service on the Server
 Bring up the WireGuard interface on the server
@@ -65,3 +65,10 @@ Verify the WireGuard status on the server
 <img src="https://github.com/user-attachments/assets/cf9e2bf3-7141-481b-8105-c268d1bf8fb9" alt="Description" width="500">
 
 # Connect the Client to the VPN
+Copy the client configuration to the client machine, if not on the same machine, and bring up the WireGuard interface
+
+<img src="https://github.com/user-attachments/assets/c0f9e4df-3dca-45f2-bc5a-25a3bc3215eb" alt="Description" width="500">
+
+Verify the client connection by pinging the VPN server
+
+<img src="https://github.com/user-attachments/assets/cf9e2bf3-7141-481b-8105-c268d1bf8fb9" alt="Description" width="500">
